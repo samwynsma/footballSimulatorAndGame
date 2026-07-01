@@ -1,0 +1,5 @@
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net6.0-windows\footballSimulatorAndGame.GeneratedMSBuildEditorConfig.editorconfig
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net6.0-windows\footballSimulatorAndGame.AssemblyInfoInputs.cache
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net6.0-windows\footballSimulatorAndGame.AssemblyInfo.cs
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net6.0-windows\footballSimulatorAndGame.csproj.CoreCompileInputs.cache
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net6.0-windows\footballSimulatorAndGame.sourcelink.json

@@ -1,0 +1,15 @@
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\bin\Debug\net8.0-windows\footballSimulatorAndGame.exe
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\bin\Debug\net8.0-windows\footballSimulatorAndGame.deps.json
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\bin\Debug\net8.0-windows\footballSimulatorAndGame.runtimeconfig.json
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\bin\Debug\net8.0-windows\footballSimulatorAndGame.dll
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\bin\Debug\net8.0-windows\footballSimulatorAndGame.pdb
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\footballSimulatorAndGame.GeneratedMSBuildEditorConfig.editorconfig
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\footballSimulatorAndGame.AssemblyInfoInputs.cache
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\footballSimulatorAndGame.AssemblyInfo.cs
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\footballSimulatorAndGame.csproj.CoreCompileInputs.cache
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\footballSimulatorAndGame.sourcelink.json
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\footballSimulatorAndGame.dll
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\refint\footballSimulatorAndGame.dll
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\footballSimulatorAndGame.pdb
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\footballSimulatorAndGame.genruntimeconfig.cache
+d:\OneDrive\Documents\GitHub\football\footballSimulatorAndGame\obj\Debug\net8.0-windows\ref\footballSimulatorAndGame.dll
