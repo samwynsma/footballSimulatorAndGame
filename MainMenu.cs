@@ -9,7 +9,14 @@ public class MainMenu : Form
     public MainMenu()
     {
         this.Text = "Football Simulation Game";
-        this.Size = new Size(400, 1000);
+        this.Size = new Size(1000, 400);
+        this.StartPosition = FormStartPosition.CenterScreen;
+
+        GroupBox footballField = new GroupBox();
+        footballField.Location = new Point(50, 50);
+        footballField.Size = new Size(900, 200);
+        this.Controls.Add(footballField);
+
     }
 
     [STAThread]
