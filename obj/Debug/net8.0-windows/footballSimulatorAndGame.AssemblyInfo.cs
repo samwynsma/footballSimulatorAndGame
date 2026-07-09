@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("footballSimulatorAndGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+649c68ee0f67444a80dfa4ea762b63b24710045f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514b643d135b4a702d712e839b2a90ce03e54774")]
 [assembly: System.Reflection.AssemblyProductAttribute("footballSimulatorAndGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("footballSimulatorAndGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

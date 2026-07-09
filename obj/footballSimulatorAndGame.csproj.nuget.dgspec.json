@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\footballSimulatorAndGame.csproj": {}
+    "D:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\footballSimulatorAndGame.csproj": {}
   },
   "projects": {
-    "d:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\footballSimulatorAndGame.csproj": {
+    "D:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\footballSimulatorAndGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\footballSimulatorAndGame.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\footballSimulatorAndGame.csproj",
         "projectName": "footballSimulatorAndGame",
-        "projectPath": "d:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\footballSimulatorAndGame.csproj",
+        "projectPath": "D:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\footballSimulatorAndGame.csproj",
         "packagesPath": "C:\\Users\\cpcss\\.nuget\\packages\\",
-        "outputPath": "d:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\obj\\",
+        "outputPath": "D:\\OneDrive\\Documents\\GitHub\\football\\footballSimulatorAndGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cpcss\\AppData\\Roaming\\NuGet\\NuGet.Config"
