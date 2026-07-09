@@ -19,8 +19,8 @@ public class MainMenu : Form
         footballField.BackColor = Color.Green;
         footballField.Paint += (sender, e) =>
         {
-            int lineCount = 100;
-            int clearance = 50;
+            int lineCount = 101;
+            int clearance = 46;
             int availableWidth = footballField.ClientSize.Width - (clearance * 2);
             int step = availableWidth / lineCount;
 
@@ -29,7 +29,14 @@ public class MainMenu : Form
                 for (int i = 0; i < lineCount; i++)
                 {
                     int x = clearance + (i * step);
-                    e.Graphics.DrawLine(linePen, x, 20, x, footballField.ClientSize.Height - 10);
+                    if(i == 0 || i == 100)
+                        e.Graphics.DrawLine(linePen, x, 20, x, footballField.ClientSize.Height);
+                    else if(i % 10 == 0)
+                        e.Graphics.DrawLine(linePen, x, 60, x, footballField.ClientSize.Height - 60);
+                    else if(i % 5 == 0)
+                        e.Graphics.DrawLine(linePen, x, 80, x, footballField.ClientSize.Height - 80);
+                    else
+                        e.Graphics.DrawLine(linePen, x, 90, x, footballField.ClientSize.Height - 90);
                 }
             }
         };
